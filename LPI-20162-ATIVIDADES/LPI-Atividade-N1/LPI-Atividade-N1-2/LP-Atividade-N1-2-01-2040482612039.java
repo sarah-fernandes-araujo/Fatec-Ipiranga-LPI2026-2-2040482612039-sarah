@@ -1,4 +1,5 @@
-//Escolhi usar o "for" porque o enunciado indica a quantidade exata de alunos
+//Escolhi usar o "for" porque o enunciado indica a quantidade exata de alunos,
+//ou seja, sei a quantidade exata de repetições.
 
 // Processamento de Notas de uma Turma
 
